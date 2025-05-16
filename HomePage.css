@@ -1,0 +1,25 @@
+.stats-container {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+  }
+  
+  .stat-box {
+    background: rgba(255, 255, 255, 0.8);
+    border-radius: 10px;
+    padding: 20px;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 200px;
+  }
+  
+  .stat-box h2 {
+    margin: 10px 0;
+    font-size: 1.5em;
+    color: maroon;
+  }
+  
+  .stat-box p {
+    font-size: 2em;
+    color: #333;
+  }
